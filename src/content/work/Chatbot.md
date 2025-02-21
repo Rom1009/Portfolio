@@ -1,7 +1,7 @@
 ---
 title: Chatbot support for children' health
 publishDate: 2025-01-20
-img: /assets/chat.jfif
+img: ./assets/chat.jfif
 img_alt: AI-driven chatbot interface for childcare support
 description: We developed an AI-powered chatbot designed to provide childcare support by integrating cutting-edge LLM & RAG techniques
 tags:
