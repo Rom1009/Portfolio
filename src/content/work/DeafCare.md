@@ -1,6 +1,6 @@
 ---
 title: TeleDeaf Care
-publishDate: "2024-11-15"
+publishDate: 2024-11-15
 img: /Portfolio/assets/DeafCare.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: We developed an AI-powered telehealth platform designed to assist individuals with hearing impairments through real-time sign language recognition and healthcare accessibility solutions
