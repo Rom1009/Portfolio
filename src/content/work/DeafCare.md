@@ -1,6 +1,6 @@
 ---
 title: TeleDeaf Care
-publishDate: 2020-03-02 00:00:00
+publishDate: "2024-11-15"
 img: /assets/DeafCare.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
