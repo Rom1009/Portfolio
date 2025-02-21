@@ -5,4 +5,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     site: 'https://Rom1009.github.io',
     base: 'my-repo',
+    output: 'static'
 });
