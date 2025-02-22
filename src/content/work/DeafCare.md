@@ -6,17 +6,17 @@ img_alt: Iridescent ripples of a bright blue and pink liquid
 description: We developed an AI-powered telehealth platform designed to assist individuals with hearing impairments through real-time sign language recognition and healthcare accessibility solutions
 tags:
   - AI
-  - Telehealth
+  - Flask
   - Deep Learning
 ---
 
-# Introduction
+#### Introduction
 
 TeleDeaf Care is an AI-driven telehealth platform aimed at improving healthcare accessibility for the deaf community in Australia. This project integrates real-time sign language recognition to facilitate seamless communication between patients and healthcare providers.
 
-# Project Overview
+#### Project Overview
 
-## Technologies Used
+##### Technologies Used
 
 + Frameworks:  PyTorch, Mediapipe, Flask
 
@@ -24,7 +24,7 @@ TeleDeaf Care is an AI-driven telehealth platform aimed at improving healthcare 
 
 + Computer Vision Tools: OpenCV, Transformers, Sign Language Recognition Models
 
-# Key Features
+#### Key Features
 
 1. Real-Time Sign Language Recognition
 
@@ -50,7 +50,7 @@ TeleDeaf Care is an AI-driven telehealth platform aimed at improving healthcare 
 
 + Iteratively improved model based on real-world feedback.
 
-# Challenges and Solutions
+#### Challenges and Solutions
 
 + Sign Language Complexity: Utilized Transformer models to improve gesture understanding.
 
@@ -58,6 +58,6 @@ TeleDeaf Care is an AI-driven telehealth platform aimed at improving healthcare 
 
 + User Accessibility: Designed an inclusive UI with multilingual support for diverse users.
 
-# Conclusion
+#### Conclusion
 
 TeleDeaf Care represents a step forward in AI-driven healthcare accessibility. By combining Deep Learning, NLP, and Computer Vision, this project bridges communication gaps and enhances medical support for the deaf community. Future enhancements include speech-to-text conversion and expanded language support.

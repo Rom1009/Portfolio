@@ -7,18 +7,16 @@ description: We developed an AI-powered chatbot designed to provide childcare su
 tags:
   - AI
   - LLM
-  - LlamaIndex
   - RAG
-  - Healthcare
 ---
 
-# Introduction
+#### Introduction
 
 Ensuring children's health and well-being is a top priority for parents and caregivers. With the advancement of AI, we developed a chatbot that offers real-time childcare support by leveraging Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) techniques. This project aimed to enhance accessibility to reliable childcare information and improve response accuracy through advanced NLP methods.
 
-# Project Overview
+#### Project Overview
 
-## Technologies Used
+##### Technologies Used
 
 + Frameworks: PyTorch, TensorFlow, LLamaIndex, CrewAI, FastAPI, Streamlit
 
@@ -28,7 +26,7 @@ Ensuring children's health and well-being is a top priority for parents and care
 
 + Data Processing: PDF, document parsing, structured and unstructured text analysis
 
-## Key Features
+##### Key Features
 
 1. AI-Driven Childcare Chatbot
 
@@ -60,7 +58,7 @@ Ensuring children's health and well-being is a top priority for parents and care
 
 + Iteratively improved the chatbot based on evaluation metrics.
 
-# Challenges and Solutions
+#### Challenges and Solutions
 
 + Processing Unstructured Data: Used BeautifulSoup and NLP techniques to clean and extract relevant childcare information from different formats.
 
@@ -68,7 +66,7 @@ Ensuring children's health and well-being is a top priority for parents and care
 
 + User Interaction & Experience: Developed a streamlined UI to make the chatbot accessible to non-technical users.
 
-# Conclusion
+#### Conclusion
 
 This project demonstrates the power of AI in improving healthcare support. By integrating LLMs, RAG techniques, and advanced NLP processing, our chatbot provides reliable, real-time assistance for childcare-related concerns. Future improvements include expanding multilingual support and integrating speech-to-text capabilities for a more interactive experience
 
